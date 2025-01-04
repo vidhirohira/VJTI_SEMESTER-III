@@ -1,0 +1,3 @@
+Linear Search
+
+Binary Search
